@@ -1,0 +1,15 @@
+{
+    "name": "manhdv/button-contact",
+    "autoload": {
+        "psr-4": {
+            "DT\\Contact\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "elumarketing",
+            "email": "marketing@elightup.com"
+        }
+    ],
+    "require": {}
+}
